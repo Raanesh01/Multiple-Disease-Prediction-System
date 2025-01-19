@@ -50,3 +50,7 @@ cd Multiple-Disease-Prediction-System
 
 4. Run the Streamlit app:
 streamlit run app.py
+
+
+## Project Screenshots
+1. 
