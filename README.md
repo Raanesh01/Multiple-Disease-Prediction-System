@@ -36,3 +36,17 @@ The application allows users to input relevant medical information and provides 
 2. Select the disease you want to predict (Heart, Parkinson's, or Diabetes).
 3. Enter the required medical details in the input fields.
 4. Click on the respective "Test Result" button to view the results.
+
+## Installation Instructions
+Follow these steps to set up the project locally:
+
+1. Clone the repository:
+git clone https://github.com/Raanesh01/multiple-disease-prediction.git
+
+2. Navigate to the project directory:
+cd Multiple-Disease-Prediction-System
+
+3. Install the required dependencies
+
+4. Run the Streamlit app:
+streamlit run app.py
