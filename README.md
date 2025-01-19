@@ -41,7 +41,7 @@ The application allows users to input relevant medical information and provides 
 Follow these steps to set up the project locally:
 
 1. Clone the repository:
-git clone https://github.com/Raanesh01/multiple-disease-prediction.git
+git clone https://github.com/Raanesh01/Multiple-Disease-Prediction-System.git
 
 2. Navigate to the project directory:
 cd Multiple-Disease-Prediction-System
