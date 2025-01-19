@@ -54,11 +54,11 @@ streamlit run app.py
 
 ## Project Screenshots
 
-1.https://github.com/Raanesh01/Multiple-Disease-Prediction-System/blob/6ffe84add759f28ccd0f27ca8bf1727ccfb82df2/Multiple%20disease%20prediction%20system/multiple_disease_pred%20-%20Google%20Chrome%2019-01-2025%2016_50_18.png
+1. ![image alt](https://github.com/Raanesh01/Multiple-Disease-Prediction-System/blob/6ffe84add759f28ccd0f27ca8bf1727ccfb82df2/Multiple%20disease%20prediction%20system/multiple_disease_pred%20-%20Google%20Chrome%2019-01-2025%2016_50_18.png)
 
-2.https://github.com/Raanesh01/Multiple-Disease-Prediction-System/blob/6ffe84add759f28ccd0f27ca8bf1727ccfb82df2/Multiple%20disease%20prediction%20system/multiple_disease_pred%20-%20Google%20Chrome%2019-01-2025%2016_50_29.png
+2. ![image alt](https://github.com/Raanesh01/Multiple-Disease-Prediction-System/blob/6ffe84add759f28ccd0f27ca8bf1727ccfb82df2/Multiple%20disease%20prediction%20system/multiple_disease_pred%20-%20Google%20Chrome%2019-01-2025%2016_50_29.png)
 
-3. https://github.com/Raanesh01/Multiple-Disease-Prediction-System/blob/6ffe84add759f28ccd0f27ca8bf1727ccfb82df2/Multiple%20disease%20prediction%20system/multiple_disease_pred%20-%20Google%20Chrome%2019-01-2025%2016_50_43.png
+3. ![image alt](https://github.com/Raanesh01/Multiple-Disease-Prediction-System/blob/6ffe84add759f28ccd0f27ca8bf1727ccfb82df2/Multiple%20disease%20prediction%20system/multiple_disease_pred%20-%20Google%20Chrome%2019-01-2025%2016_50_43.png)
 
 
 
